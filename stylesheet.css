@@ -1,0 +1,15 @@
+h2{
+    color:white;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    color: white;
+}
+nav ul li{
+    padding: 20px;
+}
+header{
+    background-image: url(.//住吉の長屋.png);
+    height: 150px;
+}
